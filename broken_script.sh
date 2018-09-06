@@ -1,4 +1,4 @@
-#/bin/bsh
+#/bin/bash
 
 # You will change this line later
 echo "This script has typos. Please fix them."
