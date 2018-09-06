@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Github is a powerful resource for collaboration in coding. This exercise gave us better insight into version control as well how to deal with its problems. 
+Github is a powerful resource for collaboration in coding. This exercise gave us better insight into version control as well how to deal with its problems. We ran into a few issues along the way that helped us learn more about using git.
 
 ## Honor Pledge
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Ben Seeley, Jack Savage, Grady Lynch, Enea Dodi
