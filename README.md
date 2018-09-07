@@ -27,4 +27,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Ben Seeley, Jack Savage, Grady Lynch, Enea Dodi
+Ben Seeley, Jack Savage
